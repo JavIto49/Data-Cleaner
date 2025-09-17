@@ -1,0 +1,12 @@
+id,title,year,rating,genre
+1,The Matrix,1999,8.7,Sci-Fi
+2,Inception,2010,8.8,Sci-Fi
+3,,2014,7.5,Drama
+4,Titanic,1997,,Romance
+5,Avengers: Endgame,2019,8.4,Action
+6,The Godfather,1972,9.2,crime
+7,The Dark Knight,2008,9.0,Action
+7,The Dark Knight,2008,9.0,Action
+8,Interstellar,2014,8.6,Sci-fi
+9,Whiplash,2014,8.5,Drama
+10, ,2003,7.1,Comedy
