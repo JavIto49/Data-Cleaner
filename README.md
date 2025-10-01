@@ -14,6 +14,18 @@ The project demonstrates basic data cleaning, database handling, and SQL queries
   - Count movies per genre
   - Calculate average ratings by genre
   - Get top movies by average user rating (with vote threshold)
+- Support for command-line interface (CLI) arguments to customize behavior
+- Logging for monitoring the cleaning and querying process
+- Generate a data quality report summarizing dataset issues and cleaning actions
+
+---
+
+### Project Structure
+- `cleaner.py`: Main script to run the cleaning and querying processes
+- `cleaning.py`: Module containing data cleaning functions
+- `database.py`: Handles SQLite database interactions and indexing
+- `reporting.py`: Generates data quality reports
+- `utils.py`: Utility functions and logging setup
 
 ---
 
